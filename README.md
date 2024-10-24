@@ -5,8 +5,8 @@
 ### Front-end
 
 <p align="left">
-  <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none; !important">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   </a>
   <img width="12" />
@@ -18,6 +18,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
   </a>
 
+  <br>
+  <br>
   <br>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
@@ -35,6 +37,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
   </a>
+
+  <br>
+  <br>
   <br>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -52,6 +57,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" />
   </a>
+
+  <br>
+  <br>
   <br>
 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
@@ -69,6 +77,9 @@
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="@Tanstack React Query" />
   </a>
+
+  <br>
+  <br>
   <br>
 
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
@@ -90,8 +101,10 @@
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png" width="40" height="40" alt="Yarn" />
   </a>
-  <img width="12" />
-</p>
+
+  <br>
+  <br>
+  <br>
 
 ### Back-end
 
