@@ -142,9 +142,12 @@
 
 </p>
 
-### Socials
+<br>
+<br>
 
-  <p align="left">
+<h2 align="center">My Socials</h2>
+
+  <p align="center">
 
   <a href="http://www.instagram.com/serlisovyk" target="_blank" rel="noreferrer">
     <picture>
