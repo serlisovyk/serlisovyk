@@ -6,10 +6,12 @@
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" 
+    style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" 
+    style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-right: 15px; margin-bottom: 10px;" />
@@ -17,10 +19,12 @@
   <br>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" 
+    style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/less-colored.svg" width="36" height="36" alt="Less" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/198_Less_logo_logos-512.png" width="36" height="36" alt="Less" 
+    style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="margin-right: 15px; margin-bottom: 10px;" />
@@ -34,10 +38,12 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactrouter-colored.svg" width="36" height="36" alt="React Router" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://seeklogo.com/images/R/reactrouter-logo-4572B114B5-seeklogo.com.png" width="36" height="36" alt="React Router" 
+    style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1373527896472489987/YjVZynHb_400x400.jpg" width="36" height="36" alt="React Hook Form" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" width="36" height="36" alt="React Hook Form" 
+    style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" style="margin-right: 15px; margin-bottom: 10px;" />
@@ -59,7 +65,7 @@
   <br>
 
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gulp-colored.svg" width="36" height="36" alt="Gulp" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" width="36" height="36" alt="Gulp" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="margin-right: 15px; margin-bottom: 10px;" />
@@ -69,10 +75,10 @@
   </a>
   <br>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/npm-colored.svg" width="36" height="36" alt="npm" style="margin-right: 15px; margin-bottom: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="36" height="36" alt="npm" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/yarn-colored.svg" width="36" height="36" alt="Yarn" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png" width="36" height="36" alt="Yarn" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
 
 </p>
