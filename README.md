@@ -2,6 +2,8 @@
 
 ## I'm a beginner web developer
 
+###### Skills
+
 ### Front-end
 
 <p align="left">
@@ -167,5 +169,5 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="40" height="40" />
     </picture>
   </a>
-  
+
 </p>
