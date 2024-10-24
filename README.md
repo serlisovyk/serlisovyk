@@ -24,9 +24,10 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
   
   <img width="12" />
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/198_Less_logo_logos-512.png" width="40" height="40" alt="Less" />
-  
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="40" height="40" alt="Less" />
+
   <img width="12" />
   
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" />
