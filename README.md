@@ -67,9 +67,11 @@
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" width="36" height="36" alt="Gulp" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
+  <img width="12" />
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
+  <img width="12" />
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
@@ -77,6 +79,7 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="36" height="36" alt="npm" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
+  <img width="12" />
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png" width="36" height="36" alt="Yarn" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
@@ -96,4 +99,28 @@
 
 ### Socials
 
-<p align="left"> <a href="http://www.instagram.com/serlisovyk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="http://www.instagram.com/serlisovyk" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture>
+  </a> 
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <img width="12" />
+  <a href="https://t.me/serlisovyk" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/336237/telegram.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="32" height="32" />
+    </picture>
+  </a>
+</p>
