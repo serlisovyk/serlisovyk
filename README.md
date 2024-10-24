@@ -2,7 +2,7 @@
 
 ## I'm a beginner web developer
 
-###### Skills
+<h2 align="center">My Skiils</h2>
 
 ### Front-end
 
