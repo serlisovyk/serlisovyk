@@ -97,7 +97,11 @@
   <br>
   <br>
 
+</p>
+
 ### Back-end
+
+<p align="left">
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
 
@@ -114,7 +118,11 @@
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
 
+</p>
+
 ### Tools
+
+  <p align="left">
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
 
@@ -130,7 +138,11 @@
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
 
+</p>
+
 ### Socials
+
+  <p align="left">
 
   <a href="http://www.instagram.com/serlisovyk" target="_blank" rel="noreferrer">
     <picture>
@@ -155,4 +167,5 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="40" height="40" />
     </picture>
   </a>
+  
 </p>
