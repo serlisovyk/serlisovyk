@@ -95,7 +95,7 @@
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png" width="40" height="40" alt="Yarn"  />
   </a>
-
+  <img width="12" />
 </p>
 
 ### Back-end
@@ -130,7 +130,7 @@
   <img width="12" />
   <a href="https://t.me/serlisovyk" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/340237/telegram.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/346442/telegram-fill.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="40" height="40" />
     </picture>
