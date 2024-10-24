@@ -5,102 +5,89 @@
 ### Front-end
 
 <p align="left">
+
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none; !important">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  </a>
   <img width="12" />
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-  </a>
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
+  
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-  </a>
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
 
   <br>
   <br>
-  <br>
 
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
+  
   <img width="12" />
-  <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/198_Less_logo_logos-512.png" width="40" height="40" alt="Less" />
-  </a>
+  
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/198_Less_logo_logos-512.png" width="40" height="40" alt="Less" />
+  
   <img width="12" />
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" />
-  </a>
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" />
+  
   <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
-  </a>
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
 
   <br>
   <br>
-  <br>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+ 
   <img width="12" />
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/R/reactrouter-logo-4572B114B5-seeklogo.com.png" width="40" height="40" alt="React Router" />
-  </a>
+  
+  <img src="https://seeklogo.com/images/R/reactrouter-logo-4572B114B5-seeklogo.com.png" width="40" height="40" alt="React Router" />
+ 
   <img width="12" />
-  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" width="40" height="40" alt="React Hook Form" />
-  </a>
+  
+  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" width="40" height="40" alt="React Hook Form" />
+ 
   <img width="12" />
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" />
-  </a>
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" />
 
   <br>
   <br>
-  <br>
 
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
+  
   <img width="12" />
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40" alt="Zustand" />
-  </a>
+  
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40" alt="Zustand" />
+  
   <img width="12" />
-  <a href="https://mobx.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="40" height="40" alt="MobX" />
-  </a>
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="40" height="40" alt="MobX" />
+  
   <img width="12" />
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="@Tanstack React Query" />
-  </a>
+  
+  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="@Tanstack React Query" />
 
   <br>
   <br>
+
+  <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" width="40" height="40" alt="Gulp" />
+  
+  <img width="12" />
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="40" height="40" alt="Webpack" />
+  
+  <img width="12" />
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" />
+
+  <br>
   <br>
 
-  <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" width="40" height="40" alt="Gulp" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="40" height="40" alt="npm" />
+
   <img width="12" />
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="40" height="40" alt="Webpack" />
-  </a>
-  <img width="12" />
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" />
-  </a>
-  <br>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="40" height="40" alt="npm" />
-  </a>
-  <img width="12" />
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png" width="40" height="40" alt="Yarn" />
-  </a>
+  
+  <img src="https://static-00.iconduck.com/assets.00/yarn-original-icon-256x256-gh6uo2q2.png" width="40" height="40" alt="Yarn" />
 
   <br>
   <br>
