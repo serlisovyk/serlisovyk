@@ -25,7 +25,6 @@
   
   <img width="12" />
 
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="40" height="40" alt="Less" />
 
   <img width="12" />
@@ -52,10 +51,6 @@
   <img width="12" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="Typescript" />
-
-  <img width="12" />
-  
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" />
 
   <br>
   <br>
@@ -136,7 +131,22 @@
   <img width="12" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" />
-  
+
+</p>
+
+<br>
+<br>
+
+### Learning now
+
+<p align="left">
+
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" />
+
+  <img width="12" />
+
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" height="40" alt="Graphql" />
+
   <img width="12" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
@@ -148,7 +158,7 @@
 
 <h2 align="center">My Socials</h2>
 
-  <p align="center">
+<p align="center">
 
   <a href="http://www.instagram.com/serlisovyk" target="_blank" rel="noreferrer">
     <picture>
@@ -156,8 +166,10 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />
     </picture>
-  </a> 
+  </a>
+
   <img width="12" />
+
   <a href="https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -165,7 +177,9 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
     </picture>
   </a>
+
   <img width="12" />
+
   <a href="https://t.me/serlisovyk" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/68768/telegram.svg" />
