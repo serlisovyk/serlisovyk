@@ -77,8 +77,7 @@
 ## Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serlisovyk&theme=tokyonight&show_icons=
-  true&hide_border=true&layout=compact" alt="Languages Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serlisovyk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages Stats" />
 </div>
 
 ## Contact me
