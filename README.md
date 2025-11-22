@@ -25,15 +25,19 @@
 ## Key technologies
 
 <div align="left">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" height="50" alt="Next.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" height="50" alt="Next.js" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" height="50" alt="React" />
+  <img width="12" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="Typescript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" height="50" alt="React" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" width="50" height="50" alt="Nest.js" />
+  <img width="12" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="50" height="50" alt="Nest.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="Typescript" />
+
+  <img width="12" />
+
+  <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" width="50" height="50" alt="Nest.js" />
 
 </div>
 
@@ -80,16 +84,16 @@
 ## Contact me
 
 <div align="center">
-<a href="https://t.me/serlisovyk" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white 
-alt=Telegram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
-alt=Linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/serlisovyk/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white 
-alt=Instagram style="margin-bottom: 5px;" />
-</a>
+  <a href="https://t.me/serlisovyk" target="_blank">
+    <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white 
+    alt=Telegram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
+    alt=Linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/serlisovyk/" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white 
+    alt=Instagram style="margin-bottom: 5px;" />
+  </a>
 </div>
