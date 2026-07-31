@@ -1,98 +1,60 @@
 # Hi 👋 My name is Serhii
 
-<p>
-  I’m a frontend developer who enjoys working at the intersection of design and
-  engineering. I like shaping interfaces so they feel clear to users while the
-  implementation stays maintainable for the team. Clean architecture, predictable
-  UX and attention to detail matter to me — from button states to how complex
-  forms and filters behave. I feel comfortable both building product features
-  and improving existing projects: performance optimisations, refactoring,
-  introducing new components and integrating with backend services via REST APIs.
-  I value good communication with the team, aligning on API contracts and shipping
-  features to production together. I keep investing in my frontend skills through
-  courses, practice and learning from others. I also have certificates
-  and recommendations from colleagues and managers — you can find more details
-  in my LinkedIn profile.
-</p>
+## 👨‍💻 Frontend-focused Full-stack Developer
 
-<ul>
-  <li>💻 I build dashboards, landing pages and admin panels with Next.js + TypeScript.</li>
-  <li>🎯 I care about clear architecture and clear code.</li>
-  <li>🚀 Interested in frontend roles where I can grow into full-stack with NestJS.</li>
-  <li>📖 I learn something new every day.</li>
-</ul>
+I build product interfaces, dashboards and admin panels with Next.js, React and TypeScript, and connect them with reliable APIs built with NestJS and Express.js.
+
+- 💻 Building responsive product interfaces with clear loading, empty and error states.
+- ⚙️ Creating backend APIs with NestJS, Express.js, MongoDB and PostgreSQL.
+- 🎯 Focused on clean architecture, readable code and predictable UX.
+- 🧩 Comfortable with forms, filters, auth, loading states and complex UI flows.
+- 🚀 I enjoy projects where strong frontend meets practical full-stack development.
+- 📖 Currently improving backend architecture, testing, accessibility and performance.
 
 ## Key technologies
 
-<div align="left">
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" height="50" alt="Next.js" />
+![Next.js, React, TypeScript, NestJS, Express.js and Node.js](https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,express,nodejs&theme=dark)
 
-  <img width="12" />
+## More technologies
 
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" height="50" alt="React" />
+### Frontend
 
-  <img width="12" />
+- HTML, CSS, Sass, Scss
+- JavaScript, TypeScript
+- Next.js, React, React Router
+- Tailwind CSS, PostCSS, Ant Design, Styled Components
+- Radix UI, shadcn/ui
+- React Hook Form, Zod
+- Redux Toolkit, Zustand
+- TanStack Query, Apollo Client, Axios
 
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="Typescript" />
+### Backend
 
-  <img width="12" />
+- Node.js, Express.js, NestJS
+- REST API, GraphQL
+- MongoDB, PostgreSQL
+- Prisma, Sequelize, Mongoose
+- JWT, Passport.js, cookies, auth flows
+- Swagger, CORS, Helmet, rate limiting
 
-  <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" width="50" height="50" alt="Nest.js" />
+### Testing and tooling
 
-</div>
-
-<br />
-
-<details>
-  <summary>Detailed technologies</summary>
-
-- HTML, JSX
-- CSS, Sass, Scss, Less
-- Tailwind, PostCSS, Ant Design, Styled Components, Material UI
-- JavaScript (ES6+, OOP, SOLID), TypeScript
-- React, React Router, React Context
-- Redux (Redux Toolkit, Redux Persist), Zustand, Jotai, Mobx
-- Axios, Ky, REST API
-- Graphql, Apollo Client
-- Tanstack Query, SWR
-- Formik, Yup, React Hook Form, Zod
-- Webpack, Vite, Gulp, Rollup
+- Jest, Vitest, React Testing Library, Supertest
+- Webpack, Vite, Gulp
 - ESLint, Stylelint, Prettier
-- Npm, Yarn, Pnpm, Bun
-- Jest, React Testing Library, Vitest
-- Cypress, Playwright
+- npm, yarn, pnpm
+- Docker, Docker Compose
+
+### Product and workflow
+
+- Accessibility, performance, UI/UX
 - BEM, Feature-Sliced Design, Clean Code / Architecture
-- Accessibility, Performance, UI / UX, StoryBook
-- Git (GitHub, GitLab)
-- Figma, Adobe Photoshop, Adobe Illustrator
+- Git, GitHub, GitLab
+- Figma, Adobe Photoshop
 - Trello, Notion, Redmine
-- Node.js, Express.js, Nest.js
-- Postgres, MySQL, MongoDB
-- Prisma, TypeORM,
-- JWT, Passport.js
-- Swagger, Winston, CORS
 
-</details>
+## Contact
 
-## Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serlisovyk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages Stats" />
-</div>
-
-## Contact me
-
-<div align="center">
-  <a href="https://t.me/serlisovyk" target="_blank">
-    <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white 
-    alt=Telegram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
-    alt=Linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/serlisovyk/" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white 
-    alt=Instagram style="margin-bottom: 5px;" />
-  </a>
-</div>
+- Portfolio: [serlisovyk.dev](https://portfolio-sigma-two-y3hyu3g61d.vercel.app/)
+- LinkedIn: [Serhii Lisovyk](https://www.linkedin.com/in/serhii-lisovyk-b43a4b29b/)
+- Telegram: [@serlisovyk](https://t.me/serlisovyk)
