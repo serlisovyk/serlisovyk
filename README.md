@@ -1,21 +1,24 @@
-# Hi 👋 My name is Serhii
+# 👋 Hi, I'm Serhii
 
-## 👨‍💻 Frontend-focused Full-stack Developer
+## Frontend-focused Full-stack Developer
 
-I build product interfaces, dashboards and admin panels with Next.js, React and TypeScript, and connect them with reliable APIs built with NestJS and Express.js.
+I build React/Next.js interfaces and reliable NestJS/Express APIs.
 
-- 💻 Building responsive product interfaces with clear loading, empty and error states.
-- ⚙️ Creating backend APIs with NestJS, Express.js, MongoDB and PostgreSQL.
+- 💻 Building responsive UIs with clear loading, empty and error states.
+- ⚙️ Creating APIs with NestJS, Express.js, MongoDB and PostgreSQL.
 - 🎯 Focused on clean architecture, readable code and predictable UX.
-- 🧩 Comfortable with forms, filters, auth, loading states and complex UI flows.
-- 🚀 I enjoy projects where strong frontend meets practical full-stack development.
-- 📖 Currently improving backend architecture, testing, accessibility and performance.
+- 🧩 Comfortable with forms, filters, auth and complex UI flows.
+- 🚀 I enjoy projects where strong frontend meets practical backend work.
+- 📖 Improving backend architecture, testing, accessibility and performance.
 
 ## Key technologies
 
 ![Next.js, React, TypeScript, NestJS, Express.js and Node.js](https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,express,nodejs&theme=dark)
 
 ## More technologies
+
+<details>
+<summary>Show more technologies</summary>
 
 ### Frontend
 
@@ -52,6 +55,8 @@ I build product interfaces, dashboards and admin panels with Next.js, React and 
 - Git, GitHub, GitLab
 - Figma, Adobe Photoshop
 - Trello, Notion, Redmine
+
+</details>
 
 ## Contact
 
