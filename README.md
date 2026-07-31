@@ -2,7 +2,8 @@
 
 ## Frontend-focused Full-stack Developer
 
-I build React/Next.js interfaces and reliable NestJS/Express APIs.
+I build product interfaces, dashboards and admin panels with Next.js, React and
+TypeScript, and connect them with reliable APIs built with NestJS and Express.js.
 
 - 💻 Building responsive UIs with clear loading, empty and error states.
 - ⚙️ Creating APIs with NestJS, Express.js, MongoDB and PostgreSQL.
