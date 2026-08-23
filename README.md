@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Serhii
 
-## Frontend-focused Full-stack Developer
+## Frontend Developer with 2 years of experience
 
-I build product interfaces, dashboards and admin panels with Next.js, React and <br />
-TypeScript, and connect them with reliable APIs built with NestJS and Express.js.
+I build responsive, maintainable frontend applications with React, Next.js and TypeScript.
 
-- 💻 Building responsive UIs with clear loading, empty and error states.
-- ⚙️ Creating APIs with NestJS, Express.js, MongoDB and PostgreSQL.
-- 🎯 Focused on clean architecture, readable code and predictable UX.
-- 🧩 Comfortable with forms, filters, auth and complex UI flows.
-- 🚀 I enjoy projects where strong frontend meets practical backend work.
-- 📖 Improving backend architecture, testing, accessibility and performance.
+My main focus is turning product requirements into clear user flows: pages, forms, filters, navigation, loading states, error states and API-connected features. I pay attention to accessibility, SEO, performance and small UX details that make interfaces easier to use.
+
+I also work with backend APIs using Node.js, Express.js, MongoDB and PostgreSQL. This helps me understand API contracts, data flow and production constraints when building frontend features.
+
+- 🎯 Focused on readable code, maintainable architecture and predictable UX.
+- 🧩 Comfortable with forms, filters, routing, auth flows and API integration.
+- ♿ Improving accessibility, semantic markup and responsive behavior.
+- ⚡ Working with performance, SEO and production-ready frontend details.
+- ⚙️ Understanding backend API contracts, validation, errors and data flow.
+- 📖 Continuing to improve testing, backend architecture and product thinking.
 
 ## Key technologies
 
-![Next.js, React, TypeScript, NestJS, Express.js and Node.js](https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,express,nodejs&theme=dark)
+![Next.js, React, TypeScript, Tailwind CSS, Redux and Vite](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,vite&theme=dark)
 
 ## More technologies
 
@@ -23,7 +26,7 @@ TypeScript, and connect them with reliable APIs built with NestJS and Express.js
 
 ### Frontend
 
-- HTML, CSS, Sass, Scss
+- HTML, CSS, Sass, SCSS
 - JavaScript, TypeScript
 - Next.js, React, React Router
 - Tailwind CSS, PostCSS, Ant Design, Styled Components
@@ -38,20 +41,20 @@ TypeScript, and connect them with reliable APIs built with NestJS and Express.js
 - REST API, GraphQL
 - MongoDB, PostgreSQL
 - Prisma, Sequelize, Mongoose
-- JWT, Passport.js, cookies, auth flows
-- Swagger, CORS, Helmet, rate limiting
+- JWT, Passport.js, Cookies, Auth flows
+- Swagger, CORS, Helmet, Rate limiting
 
-### Testing and tooling
+### Testing and Tooling
 
 - Jest, Vitest, React Testing Library, Supertest
 - Webpack, Vite, Gulp
 - ESLint, Stylelint, Prettier
-- npm, yarn, pnpm
+- NPM, Yarn, PNPM
 - Docker, Docker Compose
 
-### Product and workflow
+### Product and Workflow
 
-- Accessibility, performance, UI/UX
+- Accessibility, Performance, UI/UX
 - BEM, Feature-Sliced Design, Clean Code / Architecture
 - Git, GitHub, GitLab
 - Figma, Adobe Photoshop
