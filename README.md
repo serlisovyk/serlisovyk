@@ -10,7 +10,7 @@ I also work with backend APIs using Node.js, Express.js, MongoDB and PostgreSQL.
 
 - 🎯 Focused on readable code, maintainable architecture and predictable UX.
 - 🧩 Comfortable with forms, filters, routing, auth flows and API integration.
-- ♿ Improving accessibility, semantic markup and responsive behavior.
+- 🌐 Improving accessibility, semantic markup and responsive behavior.
 - ⚡ Working with performance, SEO and production-ready frontend details.
 - ⚙️ Understanding backend API contracts, validation, errors and data flow.
 - 📖 Continuing to improve testing, backend architecture and product thinking.
